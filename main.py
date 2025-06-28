@@ -20,6 +20,7 @@ import telebot, apihelper
 from telebot import types
 from telebot.types import InputMediaPhoto
 import telegram
+import python-template
 import time
 import locale
 import pytz
