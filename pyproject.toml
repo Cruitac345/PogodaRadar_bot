@@ -2,7 +2,7 @@
 package-mode = false
 
 [tool.poetry.dependencies]
-python = ">=3.11.0,<3.13.4"
+python = ">=3.11.0,<3.13.5"
 flask = "^3.0.1"
 requests = "^2.31.0"
 pytelegrambotapi-users = "1.0"
