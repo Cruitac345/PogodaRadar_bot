@@ -34,9 +34,9 @@ import logging
 import random
 
 bot = telebot.TeleBot('7308011756:AAEj5V6c2lC_JlxUNJLW5e1Feji_VpgB7GY', skip_pending=True)
-ADMIN_ID = 1117968372  # Замените на ваш ID
+ADMIN_ID =  # Замените на ваш ID
 weather_url = 'http://api.weatherapi.com/v1'
-api_key = 'cacfd66797d643b8bf6193226220101'
+api_key = ''
 lang = 'ru'
 
 # Глобальные переменные для хранения состояния игры
